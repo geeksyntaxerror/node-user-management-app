@@ -1,0 +1,14 @@
+{
+  "name": "node-user-management-app",
+  "version": "1.0.0",
+  "description": "simple app to manage users",
+  "main": "server.js",
+  "repository": "git@github.com:geeksyntaxerror/node-user-management-app.git",
+  "author": "kiran <kirankumar.entransys@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.11"
+  }
+}
